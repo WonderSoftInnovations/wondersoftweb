@@ -40,7 +40,7 @@
             <ul class="footer-widget__list">
               <li><a href="#" class="hover-style-link">Business Marketing Solutios</a></li>
               <li><a href="#" class="hover-style-link">IT Support</a></li>
-              <li><a href="#" class="hover-style-link">Desctop Solutions</a></li>
+              <li><a href="#" class="hover-style-link">Desktop Solutions</a></li>
               <li><a href="#" class="hover-style-link">Mobile Solutions</a></li>
             </ul>
           </div>
@@ -104,8 +104,10 @@
             >
           </div>
           <div class="col-md-6 text-center text-md-right">
+
             <ul class="list ht-social-networks solid-rounded-icon">
-              <li class="item">
+
+              <!-- <li class="item">
                 <a
                   href="https://twitter.com/"
                   target="_blank"
@@ -114,7 +116,8 @@
                 >
                   <i class="fab fa-twitter link-icon"></i>
                 </a>
-              </li>
+              </li> -->
+
               <li class="item">
                 <a
                   href="https://facebook.com/wondersoftinnovations"
@@ -125,6 +128,7 @@
                   <i class="fab fa-facebook-f link-icon"></i>
                 </a>
               </li>
+
               <li class="item">
                 <a
                   href="https://instagram.com/wondersoftinno"
@@ -135,7 +139,8 @@
                   <i class="fab fa-instagram link-icon"></i>
                 </a>
               </li>
-              <li class="item">
+
+              <!-- <li class="item">
                 <a
                   href="https://linkedin.com/"
                   target="_blank"
@@ -144,7 +149,9 @@
                 >
                   <i class="fab fa-linkedin link-icon"></i>
                 </a>
-              </li>
+              </li> -->
+
+
             </ul>
           </div>
         </div>

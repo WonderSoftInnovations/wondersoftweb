@@ -80,7 +80,7 @@
 
                 <div class="header-social-networks style-icons">
                   <div class="inner">
-                    <a
+                    <!-- <a
                       class="social-link hint--black hint--bottom-left"
                       aria-label="Twitter"
                       href="https://twitter.com/"
@@ -88,7 +88,7 @@
                       target="_blank"
                     >
                       <i class="social-icon fab fa-twitter"></i>
-                    </a>
+                    </a> -->
                     <a
                       class="social-link hint--black hint--bottom-left"
                       aria-label="Facebook"
@@ -107,7 +107,7 @@
                     >
                       <i class="social-icon fab fa-instagram"></i>
                     </a>
-                    <a
+                    <!-- <a
                       class="social-link hint--black hint--bottom-left"
                       aria-label="Linkedin"
                       href="https://linkedin.com/"
@@ -115,7 +115,7 @@
                       target="_blank"
                     >
                       <i class="social-icon fab fa-linkedin"></i>
-                    </a>
+                    </a> -->
                   </div>
                 </div>
               </div>
