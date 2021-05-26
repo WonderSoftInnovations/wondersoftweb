@@ -5,7 +5,7 @@
         <div class="col-lg-12">
           <div class="header position-relative">
             <div class="header__logo top-logo">
-              <a href="https://demo.hasthemes.com/mitech-preview/index.html">
+              <a href="/">
                 <h4>WonderSoft</h4>
               </a>
             </div>

@@ -1,18 +1,25 @@
-import Vue from 'vue'
 import Home from '../components/Views/Home.vue'
 import Contact from '../components/Views/Contact.vue';
-import Router from 'vue-router';
+import Team from '../components/Views/Team.vue';
 
-Vue.use(Router)
+export default {
+    mode : 'history',
 
+    routes : [
+        {
+            path : '/',
+            component : Home
 
-const routes =  [
-    { path: '/', component: Home },
-    { path: '/contact', component: Contact }
-];
+        },
 
-const router = new Router({
-    routes
-})
+        {
+            path : '/contact',
+            component : Contact
+        },
 
-export default router;
+        {
+            path : '/team',
+            component : Team
+        }
+    ]
+}

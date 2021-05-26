@@ -32,7 +32,9 @@
                         of complex business-critical applications.
                       </h6>
                       <div class="hero-button mt-30">
-                        <a href="#" class="ht-btn ht-btn-md">Learn more</a>
+                        <a href="/contact" class="ht-btn ht-btn-md"
+                          >Learn more</a
+                        >
                       </div>
                     </div>
                   </div>
@@ -74,7 +76,9 @@
                             <div class="content text-center">
                               <h5 class="heading">Business & Finance</h5>
                               <div class="text">
-                                We offer wide range of business solutions suite for your business. Digitalize your business today 
+                                We offer wide range of business solutions suite
+                                for your business. Digitalize your business
+                                today
                               </div>
                               <div class="box-projects-arrow">
                                 <span class="button-text">Discover now</span>
@@ -102,7 +106,9 @@
                             <div class="content text-center">
                               <h5 class="heading">Education</h5>
                               <div class="text">
-                                We build inhouse products for the education system. Not a single student should't be left alone
+                                We build inhouse products for the education
+                                system. Not a single student should't be left
+                                alone
                               </div>
                               <div class="box-projects-arrow">
                                 <span class="button-text">Discover now</span>
@@ -130,7 +136,9 @@
                             <div class="content text-center">
                               <h5 class="heading">Information Technology</h5>
                               <div class="text">
-                                We offer Any kind of IT solution , help for you. Contact us via our ticketing system for get instant access
+                                We offer Any kind of IT solution , help for you.
+                                Contact us via our ticketing system for get
+                                instant access
                               </div>
                               <div class="box-projects-arrow">
                                 <span class="button-text">Discover now</span>
@@ -155,12 +163,10 @@
             </div>
           </div>
 
-
           <div class="feature-icon-wrapper section-space--ptb_100">
             <div class="container">
               <div class="row align-items-center">
                 <div class="col-lg-8 col-md-8">
-
                   <div
                     class="section-title-wrap text-left section-space--mb_40"
                   >
@@ -185,226 +191,70 @@
               </div>
 
               <div class="row">
-
                 <div class="col-12">
-
                   <div class="feature-list__two">
-
                     <div class="row">
+                      <IndustryCard
+                        title="Offshore Software Development"
+                        url="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-01.png"
+                      />
 
+                      <IndustryCard
+                        title="Mobile App Development"
+                        url="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-07.png"
+                      />
 
-                      <IndustryCard title="Offshore Software Development" url="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-01.png" />
+                      <IndustryCard
+                        title="Web Application Development"
+                        url="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-05.png"
+                      />
 
-                      <IndustryCard title="Mobile App Development" url ="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-07.png"/>
-
-                      <IndustryCard title="Web Application Development" url ="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-05.png"/>
-
-                      <IndustryCard title="Tailor Made Software Development" url ="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-08.png"/>
-
-                      </div>
+                      <IndustryCard
+                        title="Tailor Made Software Development"
+                        url="https://demo.hasthemes.com/mitech-preview/assets/images/icons/soft-s3-08.png"
+                      />
                     </div>
-                  </div>
-                </div>
-              </div>
-
-            </div>
-
-          </div>
-
-          <Facts />
-
-          <div
-            class="projects-wrapper projectinfotechno-bg section-space--ptb_100"
-          >
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-12">
-                  <!-- section-title-wrap Start -->
-                  <div
-                    class="section-title-wrap text-center section-space--mb_40"
-                  >
-                    <h6 class="section-sub-title mb-20">Case studies</h6>
-                    <h3 class="heading">
-                      Proud projects
-                      <span class="text-color-primary"> make us excel</span>
-                    </h3>
-                  </div>
-                  <!-- section-title-wrap Start -->
-                </div>
-              </div>
-
-              <div class="row">
-                <div class="col-12">
-                  <div
-                    class="projects-wrap swiper-container projects-slider__container"
-                  >
-                    <div class="swiper-wrapper">
-                      <div class="swiper-slide">
-                        <!-- Projects Wrap Start -->
-                        <a href="#" class="projects-wrap style-01 wow move-up">
-                          <div class="projects-image-box">
-                            <div class="projects-image">
-                              <img
-                                class="img-fluid"
-                                src="https://demo.hasthemes.com/mitech-preview/assets/images/projects/case-study-01-480x298.jpg"
-                                alt=""
-                              />
-                            </div>
-                            <div class="content">
-                              <h6 class="heading">Mitech-Smart Vision</h6>
-                              <div class="post-categories">Cyber Security</div>
-                              <div class="text">
-                                At Mitech, we have a holistic and integrated
-                                approach towards core modernization to
-                                experience technological evolution.
-                              </div>
-                              <div class="box-projects-arrow">
-                                <span class="button-text">View case study</span>
-                                <i class="fa fa-long-arrow-right ml-1"></i>
-                              </div>
-                            </div>
-                          </div>
-                        </a>
-                        <!-- Projects Wrap End -->
-                      </div>
-
-                      <div class="swiper-slide">
-                        <!-- Projects Wrap Start -->
-                        <a href="#" class="projects-wrap style-01 wow move-up">
-                          <div class="projects-image-box">
-                            <div class="projects-image">
-                              <img
-                                class="img-fluid"
-                                src="https://demo.hasthemes.com/mitech-preview/assets/images/projects/case-study-02-480x298.jpg"
-                                alt=""
-                              />
-                            </div>
-                            <div class="content">
-                              <h6 class="heading">Arden-Internal Networking</h6>
-                              <div class="post-categories">Cyber Security</div>
-                              <div class="text">
-                                The prospects for a company operating in this
-                                new market are varied and exciting. The
-                                potential …
-                              </div>
-                              <div class="box-projects-arrow">
-                                <span class="button-text">View case study</span>
-                                <i class="fa fa-long-arrow-right ml-1"></i>
-                              </div>
-                            </div>
-                          </div>
-                        </a>
-                        <!-- Projects Wrap End -->
-                      </div>
-
-                      <div class="swiper-slide">
-                        <!-- Projects Wrap Start -->
-                        <a href="#" class="projects-wrap style-01 wow move-up">
-                          <div class="projects-image-box">
-                            <div class="projects-image">
-                              <img
-                                class="img-fluid"
-                                src="https://demo.hasthemes.com/mitech-preview/assets/images/projects/case-study-03-480x298.jpg"
-                                alt=""
-                              />
-                            </div>
-                            <div class="content">
-                              <h6 class="heading">A Freeserve case study</h6>
-                              <div class="post-categories">Cyber Security</div>
-                              <div class="text">
-                                The prospects for a company operating in this
-                                new market are varied and exciting. The
-                                potential …
-                              </div>
-                              <div class="box-projects-arrow">
-                                <span class="button-text">View case study</span>
-                                <i class="fa fa-long-arrow-right ml-1"></i>
-                              </div>
-                            </div>
-                          </div>
-                        </a>
-                        <!-- Projects Wrap End -->
-                      </div>
-
-                      <div class="swiper-slide">
-                        <!-- Projects Wrap Start -->
-                        <a href="#" class="projects-wrap style-01 wow move-up">
-                          <div class="projects-image-box">
-                            <div class="projects-image">
-                              <img
-                                class="img-fluid"
-                                src="https://demo.hasthemes.com/mitech-preview/assets/images/projects/case-study-04-480x298.jpg"
-                                alt=""
-                              />
-                            </div>
-                            <div class="content">
-                              <h6 class="heading">
-                                Aqua – Research and Energy
-                              </h6>
-                              <div class="post-categories">Cyber Security</div>
-                              <div class="text">
-                                The prospects for a company operating in this
-                                new market are varied and exciting. The
-                                potential …
-                              </div>
-                              <div class="box-projects-arrow">
-                                <span class="button-text">View case study</span>
-                                <i class="fa fa-long-arrow-right ml-1"></i>
-                              </div>
-                            </div>
-                          </div>
-                        </a>
-                        <!-- Projects Wrap End -->
-                      </div>
-                    </div>
-                    <div
-                      class="swiper-pagination swiper-pagination-project mt_20"
-                    ></div>
-                  </div>
-
-                  <div
-                    class="section-under-heading text-center section-space--mt_40"
-                  >
-                    Challenges are just opportunities in disguise.
-                    <a href="#">Take the challenge!</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <!--===========  Projects wrapper End =============-->
-
-          <Tech />
-
-          <!-- <Blog /> -->
-
-          <FooterBanner />
-
         </div>
 
-        <Footer />
+        <Facts /><br />
+
+        <Projects />
+        <!--===========  Projects wrapper End =============-->
+
+        <Tech /><br />
+
+        <!-- <Blog /> -->
+
+        <FooterBanner />
       </div>
 
-      <a href="#" class="scroll-top" id="scroll-top">
-        <i class="arrow-top fal fa-long-arrow-up"></i>
-        <i class="arrow-bottom fal fa-long-arrow-up"></i>
-      </a>
+      <Footer />
+    </div>
 
-      <MobileHeaderPopup />
+    <a href="#" class="scroll-top" id="scroll-top">
+      <i class="arrow-top fal fa-long-arrow-up"></i>
+      <i class="arrow-bottom fal fa-long-arrow-up"></i>
+    </a>
 
+    <MobileHeaderPopup />
   </div>
 </template>
 
 <script>
 import Header from "../Home/Header.vue";
 import Footer from "../Home/Footer.vue";
-import MobileHeaderPopup from '../Navigation/MobileHeaderPopup.vue'
-import FooterBanner from '../Navigation/FooterBanner.vue'
-import IndustryCard from '../Home/IndustryCard.vue'
-import Facts from '../Home/Facts.vue';
-import Tech from '../Home/Tech.vue';
-import Blog from '../Home/BlogSection.vue';
-
+import MobileHeaderPopup from "../Navigation/MobileHeaderPopup.vue";
+import FooterBanner from "../Navigation/FooterBanner.vue";
+import IndustryCard from "../Home/IndustryCard.vue";
+import Facts from "../Home/Facts.vue";
+import Tech from "../Home/Tech.vue";
+import Blog from "../Home/BlogSection.vue";
+import Projects from "../Home/Projects.vue";
 
 export default {
   components: {
@@ -415,7 +265,8 @@ export default {
     IndustryCard,
     Facts,
     Tech,
-    Blog
+    Blog,
+    Projects,
   },
 };
 </script>
