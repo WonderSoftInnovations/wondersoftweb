@@ -612,7 +612,7 @@
                 </div>
               </div>
 
-              <div class="header-search-form">
+              <!-- <div class="header-search-form">
                 <form action="#" class="search-form-top style-03">
                   <input
                     class="search-field"
@@ -623,7 +623,9 @@
                     <i class="search-btn-icon fa fa-search"></i>
                   </button>
                 </form>
-              </div>
+              </div> -->
+
+
             </div>
           </div>
         </div>

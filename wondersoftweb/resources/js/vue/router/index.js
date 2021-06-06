@@ -1,6 +1,7 @@
 import Home from '../components/Views/Home.vue'
 import Contact from '../components/Views/Contact.vue';
 import Team from '../components/Views/Team.vue';
+import About from '../components/Views/About.vue';
 
 export default {
     mode : 'history',
@@ -20,6 +21,11 @@ export default {
         {
             path : '/team',
             component : Team
+        },
+
+        {
+            path : '/about',
+            component : About
         }
     ]
 }

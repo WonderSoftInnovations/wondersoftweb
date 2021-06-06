@@ -25,7 +25,7 @@
                 <ul class="breadcrumb-list">
                   <li class="breadcrumb-item">
                     <a
-                      href="https://demo.hasthemes.com/mitech-preview/index.html"
+                      href="/"
                       >Home</a
                     >
                   </li>
