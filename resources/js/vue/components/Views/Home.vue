@@ -223,7 +223,7 @@
 
         <Facts /><br />
 
-        <Projects />
+        <!-- <Projects /> -->
         <!--===========  Projects wrapper End =============-->
 
         <Tech /><br />
